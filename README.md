@@ -10,7 +10,7 @@ parcel index.html
 Compiled code in ./dist
 # App Info
 Author
-Brad Traversy Traversy Media
+Richard David
 
 Version
 1.0.0
